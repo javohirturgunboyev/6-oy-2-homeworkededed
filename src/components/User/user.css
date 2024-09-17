@@ -1,0 +1,46 @@
+.user{
+    font-family: sans-serif;
+    width: 1300px;
+    /* margin: 0 auto; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 150px;
+}
+
+.cart{
+    margin-top: 105px;
+    width: 400px;
+    margin-left: 20px;
+    /* margin: 0 auto; */
+    border-radius: 15px;
+    background-color: rgb(202, 253, 0);
+    box-shadow: 6px 4px 45px 7px rgba(34, 60, 80, 0.48);
+}
+
+.cart img{
+    width: 300px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.cart h2{
+    margin-left: 100px;
+}
+
+.address{
+    display: flex;
+    justify-content: space-around;
+}
+
+.location{
+    background-color: red;
+}
+
+.location p{
+    margin-left: 35px;  
+}
+
+.car{
+    margin-left: 30px;
+}
